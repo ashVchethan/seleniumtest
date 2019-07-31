@@ -1,12 +1,12 @@
 README:
 
 Selenium Automation Project
-Add this project as maven project
-Enable auto import for maven 
-Code is written for all 3 browsers chrome, IE, firefox. You have to give browser name in config.properties file 
-Code is written in MAC (for windows compatible have to change to "Windows" in InitiateDriver.java file
-Here I have used selenium standalone server (remote webdriver). To run start selenium standalone server
-All the questions are answered
+1. Add this project as maven project
+2. Enable auto import for maven 
+3. Code is written for all 3 browsers chrome, IE, firefox. You have to give browser name in config.properties file 
+4. Code is written in MAC (for windows compatible have to change to "Windows" in InitiateDriver.java file
+5. Here I have used selenium standalone server (remote webdriver). To run start selenium standalone server
+6. All the questions are answered
 
 1. Open the page https://en.wikipedia.org/wiki/... - DONE 
 2. Verify that the external links in “External links“ section work - DONE
